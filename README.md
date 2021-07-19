@@ -1,7 +1,6 @@
 # Hi there 👋
-<p align="center">
+
 ![ Alt text](https://thumbs.gfycat.com/ShockedBronzeAssassinbug-max-1mb.gif)
- </p>
 
 - 🔭 I’m currently working on Backend Web Development
 - 🌱 I’m currently learning NodeJS and ExpressJS
