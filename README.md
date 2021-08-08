@@ -13,7 +13,7 @@
 - 💬 Ask me about Tech Trends and Movies :)
 - 📫 How to reach me: rajneelanuraj2001@gmail.com
 
-<h2 align="center">My skills :</h2>
+<h2 align="center">Tech Stack :</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
