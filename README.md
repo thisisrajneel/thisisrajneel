@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi thier 👋</h1>
 <div align="center">
 
 ![ Alt text](https://thumbs.gfycat.com/ShockedBronzeAssassinbug-max-1mb.gif)
